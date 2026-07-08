@@ -1,2 +1,3 @@
 # FPY_Alejandro_Espinoza-
-prueba 
+
+Se completo todas la opciones y def que aparecian en el ejercicio
